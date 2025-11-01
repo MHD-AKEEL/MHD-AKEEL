@@ -1,4 +1,4 @@
-<h1 align="center">HI 👋, I'M A K E E L</h1>
+<h1 align="center">HI 👋, I'M  A K E E L</h1>
 <h3 align="center">Junior Full-Stack Developer and Artificial Intelligence</h3>
 
 - 🌱 I’m currently learning **Learning full-stack development and machine learning**
