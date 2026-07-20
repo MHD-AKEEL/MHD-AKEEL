@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Learning full-stack development and machine learning**
 
-- 📫 How to reach me **mhdakeel7755@gmail.com**
+- 📫 How to reach me **muhammadakeel.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
